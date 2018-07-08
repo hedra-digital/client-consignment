@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': "Hedra",
+    'name': "Client Consigmnent",
 
-    'summary': 'Estoque Consignado',
+    'summary': 'Odoo module for consignment control in client facitilies (example: a publisher controls his books in bookshops',
 
-    'description': 'Módulo destinado ao controle de estoque do tipo consignado para a editora Hedra.',
+    'description': 'Odoo module for consignment control in client facitilies (example: a publisher controls his books in bookshops. It was designed for a publishing house.',
 
     'author': "Rodrigo, Leonardo - SOLAP",
     
