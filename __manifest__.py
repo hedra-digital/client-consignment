@@ -19,7 +19,7 @@
                 'account_bank_statement_import','account_bank_statement_import_csv','account_bank_statement_import_ofx','account_cancel','account_extension','account_reports',
                 'analytic','auth_crypt','auth_signup','barcodes','base','base_automation','base_import','base_import_module','base_setup','br_account','br_account_einvoice',
                 'br_bank_statement_import','br_base','br_coa','br_crm','br_crm_zip','br_data_account','br_data_account_product','br_data_base','br_product','br_sale','br_sale_stock',
-                'br_stock_account','br_zip','bus','calendar_sms','contacts','currency_rate_live','decimal_precision','document','fetchmail','iap','import_order_lines','mail_push',
+                'br_stock_account','br_zip','bus','calendar_sms','contacts','currency_rate_live','decimal_precision','document','fetchmail','iap','mail_push',
                 'payment','payment_transfer','procurement_jit','product','resource','sale','sale_crm','sales_team','sale_stock','sms','utm','web','web_clearbit','web_diagram',
                 'web_editor','web_enterprise','web_gantt','web_grid','web_kanban_gauge','web_mobile','web_planner','web_settings_dashboard','web_studio','web_tour','calendar',
                 'portal','http_routing', 'br_nfe', 'br_nfse', 'br_nfse_paulistana', 'website_sale',
