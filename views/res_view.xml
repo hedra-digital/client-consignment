@@ -156,7 +156,7 @@
         </record>
 
         <!-- Extend button cancel mail.compose.message -->
-        <record id="email_compose_message_wizard_form_inherit" model="ir.ui.view">
+        <!-- <record id="email_compose_message_wizard_form_inherit" model="ir.ui.view">
             <field name="name">mail.compose.message.form.inherit</field>
             <field name="model">mail.compose.message</field>
             <field name="inherit_id" ref="mail.email_compose_message_wizard_form" />
@@ -168,7 +168,7 @@
                     </button>
                 </xpath>           
             </field>
-        </record>
+        </record> -->
 
     </data>
 </odoo>
